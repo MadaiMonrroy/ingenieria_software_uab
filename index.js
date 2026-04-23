@@ -56,14 +56,14 @@ const rex   = new PerroPolicial('Rex', 6, 'Sargento');
 
 
 bobby.presentarse();
-bobby.ladrar();   // polimorfismo
+bobby.ladrar();   
 bobby.cumplirAnios();
 
 luna.presentarse();
-luna.ladrar();      // polimorfismo
+luna.ladrar();      
 luna.guiar();
 
 rex.presentarse();
-rex.ladrar();   // polimorfismo
+rex.ladrar();   
 rex.patrullar();
 
